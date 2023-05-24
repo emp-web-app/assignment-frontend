@@ -35,8 +35,6 @@ export default function App() {
   // such items can be found here: https://datahub.io/collections/geojson
   // You may use the native fetch() API or another library of your choice.
 
-  // TODO: Implement the backend assignment and fetch another item of data from it.
-
   // TODO: Type-cast the fetched data if necessary. You can also use type guards where needed.
 
   return (
@@ -46,42 +44,6 @@ export default function App() {
         Implement the frontend. See comments marked with TODO in the code for more
         details.
       </h2>
-      An assignment template for the backend can be found at:
-      <br />
-      <a href="https://replit.com/github/empitwa/assignment-backend">
-        https://replit.com/github/empitwa/assignment-backend
-      </a>
-      <hr />
-      In your submission, please update the entries in the table below:
-      <br />
-      <br />
-      <table>
-        <thead>
-          <tr>
-            <th>Question</th>
-            <th>Answer</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>1. Frontend finished?</td>
-            <td>No</td>
-          </tr>
-          <tr>
-            <td>2. Backend: Endpoint finished?</td>
-            <td>No</td>
-          </tr>
-          <tr>
-            <td>3. Backend: Retrieving from database using ORM is finished?</td>
-            <td>No</td>
-          </tr>
-          <tr>
-            <td>4. Overall percentage of assignment completion (frontend & backend)</td>
-            <td>0%</td>
-          </tr>
-        </tbody>
-      </table>
-      <br />
       Remarks (if any)
       <div>...</div>
       <br />
