@@ -1,16 +1,16 @@
 {
   "name": "assignment",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "Frontend assignment.",
+  "main": "src/index.tsx",
   "dependencies": {
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-scripts": "4.0.3"
   },
   "devDependencies": {
-    "@types/react": "18.0.25",
-    "@types/react-dom": "18.0.9",
+    "@types/react": "17.0.2",
+    "@types/react-dom": "17.0.9",
     "typescript": "4.4.2"
   },
   "scripts": {
